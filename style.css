@@ -1,0 +1,65 @@
+.cab{
+
+background-color: #2a2aae;
+float: left;
+margin: -1%;
+width: 110%;
+
+}
+
+.cab img{
+	float: left;
+	max-width: 200px;
+	max-height: 200px;
+
+}
+
+.cab h1{
+	text-align: center;
+	color: white;
+	margin-top: 5%;
+	float: left;
+	font-family: inherit;
+	margin-left: 25%;
+
+}
+
+.content{
+	margin-top: 4.6%;
+	position: absolute;
+
+}
+
+.content img{
+width: 1500px;
+height: 20%;
+margin:-10px;
+}
+
+
+.content a{
+margin-left: 45%;
+
+}
+.QS{
+    text-align: center;
+    background-color:#2a3eae ;
+    width: 102%;
+    margin-left: -10px;
+	color: white;
+}
+.QS h4{
+
+
+    font-family: cursive;
+
+}
+
+.QS h3{
+
+
+    font-family: cursive;
+
+}
+
+
