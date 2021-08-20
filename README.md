@@ -1,2 +1,0 @@
-# Art1
-Escola
